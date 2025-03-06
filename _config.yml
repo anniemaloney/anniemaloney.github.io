@@ -1,2 +1,5 @@
 Title: <Annie Maloney Personal Website>
 theme: minima
+header_pages:
+- index.md
+- about.md
